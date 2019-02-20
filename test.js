@@ -10,9 +10,7 @@ console.log(test3);
 const test10 = "こっちはどうかな";
 console.log(test4);
 
-<<<<<<< HEAD
-const test11 = "aaaaaaaaaaaaaaaaaaaaaa";
-=======
 const test11 = "aaaaa";
 console.log(test11);
->>>>>>> testing
+
+const formerge = "formerge";
