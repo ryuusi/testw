@@ -17,3 +17,7 @@ const formerge = "formerge";
 
 const koremerge = "korekore";
 const testnotestnotest = "mergedekiterukana";
+const test4="hmm";
+console.log("hmm");
+
+const test22 = "aaa";
