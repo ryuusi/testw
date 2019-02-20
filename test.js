@@ -9,3 +9,6 @@ console.log(test3);
 
 const test10 = "こっちはどうかな";
 console.log(test4);
+
+const test11 = "aaaaa";
+console.log(test11);
