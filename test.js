@@ -6,3 +6,8 @@ console.log(test2);
 
 const test3="hhh";
 console.log(test3);
+
+const test10 = "こっちはどうかな";
+console.log(test4);
+
+const test11 = "aaaaaaaaaaaaaaaaaaaaaa";
