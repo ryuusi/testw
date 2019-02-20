@@ -14,3 +14,5 @@ const test11 = "aaaaa";
 console.log(test11);
 
 const formerge = "formerge";
+
+const testnotestnotest = "mergedekiterukana";
