@@ -9,3 +9,5 @@ console.log(test3);
 
 const test4="hmm";
 console.log("hmm");
+
+const test22 = "aaa";
