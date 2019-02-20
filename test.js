@@ -16,3 +16,4 @@ console.log(test11);
 const formerge = "formerge";
 
 const koremerge = "korekore";
+const testnotestnotest = "mergedekiterukana";
